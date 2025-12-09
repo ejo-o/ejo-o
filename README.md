@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20ejo-o%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20ejo-o%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 ![footer](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=118&section=footer&animation=fadeIn)
 <!--
